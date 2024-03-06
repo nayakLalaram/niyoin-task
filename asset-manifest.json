@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/niyoin-task/static/css/main.e5bd3032.css",
+    "main.js": "/niyoin-task/static/js/main.68161b38.js",
+    "static/js/453.f23d189c.chunk.js": "/niyoin-task/static/js/453.f23d189c.chunk.js",
+    "static/media/banner-bg.png": "/niyoin-task/static/media/banner-bg.d781ddbabc882b5ca727.png",
+    "static/media/img-header.png": "/niyoin-task/static/media/img-header.7c5ebb434e6e088bffb7.png",
+    "static/media/girls-image-2.png": "/niyoin-task/static/media/girls-image-2.b21743b27e33ea226287.png",
+    "static/media/girls-image.png": "/niyoin-task/static/media/girls-image.5cf52e19692a8e98973d.png",
+    "static/media/pexels-photo.png": "/niyoin-task/static/media/pexels-photo.5933bec3d8b5142a2988.png",
+    "static/media/payment-4.avif": "/niyoin-task/static/media/payment-4.74ad2c3261ad01ce5c08.avif",
+    "static/media/payment-1.avif": "/niyoin-task/static/media/payment-1.4aa9fc46b1f61d89257a.avif",
+    "static/media/payment-3.avif": "/niyoin-task/static/media/payment-3.b97530a45894a35a1e19.avif",
+    "static/media/payment-2.avif": "/niyoin-task/static/media/payment-2.22238b5d68a29f824fd9.avif",
+    "static/media/logo.svg": "/niyoin-task/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/niyoin-task/index.html",
+    "main.e5bd3032.css.map": "/niyoin-task/static/css/main.e5bd3032.css.map",
+    "main.68161b38.js.map": "/niyoin-task/static/js/main.68161b38.js.map",
+    "453.f23d189c.chunk.js.map": "/niyoin-task/static/js/453.f23d189c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5bd3032.css",
+    "static/js/main.68161b38.js"
+  ]
+}
